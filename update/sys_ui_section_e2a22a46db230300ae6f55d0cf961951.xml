@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:52:29</sys_created_on>
-            <sys_id>57b26286db230300ae6f55d0cf9619cb</sys_id>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>07bc6a0edb230300ae6f55d0cf961927</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:52:29</sys_updated_on>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,69 +19,125 @@
             <element>user</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:52:29</sys_created_on>
-            <sys_id>d7b26286db230300ae6f55d0cf9619cb</sys_id>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>87bc6a0edb230300ae6f55d0cf961927</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:52:29</sys_updated_on>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>build</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>0bbc6a0edb230300ae6f55d0cf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>share_my_data</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>8bbc6a0edb230300ae6f55d0cf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>height</element>
-            <position>2</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:52:29</sys_created_on>
-            <sys_id>5bb26286db230300ae6f55d0cf9619cb</sys_id>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>0fbc6a0edb230300ae6f55d0cf961927</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:52:29</sys_updated_on>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:52:29</sys_created_on>
-            <sys_id>dbb26286db230300ae6f55d0cf9619cb</sys_id>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>8fbc6a0edb230300ae6f55d0cf961927</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:52:29</sys_updated_on>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>target_weight</element>
-            <position>4</position>
+            <element>starting_weight</element>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:52:29</sys_created_on>
-            <sys_id>5fb26286db230300ae6f55d0cf9619cb</sys_id>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>03bc6a0edb230300ae6f55d0cf961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:52:29</sys_updated_on>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>current_weight</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:52:29</sys_created_on>
-            <sys_id>dfb26286db230300ae6f55d0cf9619cb</sys_id>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>83bc6a0edb230300ae6f55d0cf961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:52:29</sys_updated_on>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>target_weight</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>07bc6a0edb230300ae6f55d0cf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>target_weight_loss</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 19:36:09</sys_created_on>
+            <sys_id>87bc6a0edb230300ae6f55d0cf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_client" sys_domain="global" view="Default view">e2a22a46db230300ae6f55d0cf961951</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 19:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

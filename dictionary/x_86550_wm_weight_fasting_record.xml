@@ -22,6 +22,8 @@
         </element>
         <element label="Dinner Time" max_length="40" name="dinner_time" type="glide_time"/>
         <element label="Evening Weight" max_length="40" name="evening_weight" type="float"/>
+        <element label="Exercise 2 Duration" max_length="40" name="exercise_2_duration" type="integer"/>
+        <element label="Exercise 2 Type" max_length="32" name="exercise_2_type" reference="x_86550_wm_exercise_type" type="reference"/>
         <element label="Exercise Duration" max_length="40" name="exercise_duration" type="integer"/>
         <element choice="1" label="Exercise Type" max_length="40" name="exercise_type" reference="x_86550_wm_exercise_type" type="reference">
             <choice/>
@@ -39,6 +41,9 @@
         <element label="Noon Weight" max_length="40" name="noon_weight" type="float"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <index name="index">
+            <element name="exercise_2_type"/>
+        </index>
+        <index name="index2">
             <element name="client"/>
         </index>
     </element>

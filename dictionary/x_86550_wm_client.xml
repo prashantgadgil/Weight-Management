@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Client" max_length="40" name="x_86550_wm_client" type="collection">
+        <element choice="3" default="normal" label="Build" mandatory="true" max_length="40" name="build" type="choice">
+            <choice>
+                <element label="Extra Thin" sequence="0" value="extra thin"/>
+                <element label="Petite" sequence="1" value="petite"/>
+                <element label="Normal" sequence="2" value="normal"/>
+                <element label="Heavy" sequence="3" value="heavy"/>
+                <element label="Obese" sequence="4" value="obese"/>
+            </choice>
+        </element>
         <element label="Current Weight" max_length="40" name="current_weight" type="float"/>
         <element label="Height" max_length="40" name="height" type="integer"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Share My Data" max_length="40" name="share_my_data" type="boolean"/>
+        <element label="Starting Weight" max_length="40" name="starting_weight" type="integer"/>
         <element label="Target Weight" max_length="40" name="target_weight" type="float"/>
+        <element label="Target Weight Loss" max_length="8000" name="target_weight_loss" type="integer"/>
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="user"/>
