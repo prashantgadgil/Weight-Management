@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_86550_wm_client</from_table>
+        <m2m_from_field>friend_of</m2m_from_field>
+        <m2m_from_label>Friend Of</m2m_from_label>
+        <m2m_table>x_86550_wm_friends</m2m_table>
+        <m2m_to_field>friend_to</m2m_to_field>
+        <m2m_to_label>Friend To</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-10 20:48:28</sys_created_on>
+        <sys_id>90bc7246db630300ae6f55d0cf961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_86550_wm_friends</sys_name>
+        <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
+        <sys_update_name>sys_m2m_90bc7246db630300ae6f55d0cf961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-10 20:48:28</sys_updated_on>
+        <to_table>x_86550_wm_client</to_table>
+    </sys_m2m>
+</record_update>

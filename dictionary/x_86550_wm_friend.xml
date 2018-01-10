@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Friend" max_length="40" name="x_86550_wm_friend" type="collection">
+        <element label="Client" max_length="32" name="client" reference="x_86550_wm_client" type="reference"/>
+        <element label="Friend" max_length="32" name="friend" reference="x_86550_wm_client" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="friend"/>
+        </index>
+        <index name="index2">
+            <element name="client"/>
+        </index>
+    </element>
+</database>

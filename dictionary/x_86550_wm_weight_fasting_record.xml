@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Weight Fasting Record" max_length="40" name="x_86550_wm_weight_fasting_record" type="collection">
+        <element choice="3" default="none" label="Afternoon Snack" max_length="40" name="afternoon_snack" type="choice">
+            <choice>
+                <element label="None" sequence="0" value="none"/>
+                <element label="Light" sequence="1" value="light"/>
+                <element label="Normal" sequence="2" value="normal"/>
+                <element label="Heavy" sequence="3" value="heavy"/>
+            </choice>
+        </element>
+        <element label="Afternoon Snack Time" max_length="40" name="afternoon_snack_time" type="glide_time"/>
+        <element choice="3" default="none" label="After Dinner Snack" max_length="40" name="after_dinner_snack" type="choice">
+            <choice>
+                <element label="None" sequence="0" value="none"/>
+                <element label="Light" sequence="1" value="light"/>
+                <element label="Normal" sequence="2" value="normal"/>
+                <element label="Heavy" sequence="3" value="heavy"/>
+            </choice>
+        </element>
+        <element label="After Dinner Snack Time" max_length="40" name="after_dinner_snack_time" type="glide_time"/>
         <element choice="3" default="none" label="Breakfast" max_length="40" name="breakfast" type="choice">
             <choice>
                 <element label="None" sequence="0" value="none"/>
@@ -9,9 +27,16 @@
                 <element label="Heavy" sequence="3" value="heavy"/>
             </choice>
         </element>
-        <element label="Breakfast Time" max_length="40" name="breakfast_time" type="glide_time"/>
+        <element default="07:00:00" label="Breakfast Time" max_length="40" name="breakfast_time" type="glide_time"/>
         <element label="Client" max_length="32" name="client" reference="x_86550_wm_client" type="reference"/>
         <element label="Day" mandatory="true" max_length="40" name="day" type="glide_date"/>
+        <element choice="3" default="normal" label="Day Type" max_length="40" name="day_type" type="choice">
+            <choice>
+                <element label="Normal" sequence="0" value="normal"/>
+                <element label="Business Travel" sequence="1" value="business travel"/>
+                <element label="Vacation" sequence="2" value="vacation"/>
+            </choice>
+        </element>
         <element choice="3" default="none" label="Dinner" max_length="40" name="dinner" type="choice">
             <choice>
                 <element label="None" sequence="0" value="none"/>
@@ -20,7 +45,7 @@
                 <element label="Heavy" sequence="3" value="heavy"/>
             </choice>
         </element>
-        <element label="Dinner Time" max_length="40" name="dinner_time" type="glide_time"/>
+        <element default="19:00:00" label="Dinner Time" max_length="40" name="dinner_time" type="glide_time"/>
         <element label="Evening Weight" max_length="40" name="evening_weight" type="float"/>
         <element label="Exercise 2 Duration" max_length="40" name="exercise_2_duration" type="integer"/>
         <element label="Exercise 2 Type" max_length="32" name="exercise_2_type" reference="x_86550_wm_exercise_type" type="reference"/>
@@ -36,7 +61,16 @@
                 <element label="Heavy" sequence="3" value="heavy"/>
             </choice>
         </element>
-        <element label="Lunch Time" max_length="40" name="lunch_time" type="glide_time"/>
+        <element default="12:00:00" label="Lunch Time" max_length="40" name="lunch_time" type="glide_time"/>
+        <element choice="3" default="none" label="Morning Snack" max_length="40" name="morning_snack" type="choice">
+            <choice>
+                <element label="None" sequence="0" value="none"/>
+                <element label="Light" sequence="1" value="light"/>
+                <element label="Normal" sequence="2" value="normal"/>
+                <element label="Heavy" sequence="3" value="heavy"/>
+            </choice>
+        </element>
+        <element label="Morning Snack Time" max_length="40" name="morning_snack_time" type="glide_time"/>
         <element label="Morning Weight" max_length="40" name="morning_weight" type="float"/>
         <element label="Noon Weight" max_length="40" name="noon_weight" type="float"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
