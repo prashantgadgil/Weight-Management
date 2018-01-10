@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a72e9a82db230300ae6f55d0cf9619d7" sys_domain="global" table="x_86550_wm_weight_fasting_record" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 18:32:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb2e9a82db230300ae6f55d0cf9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_86550_wm_weight_fasting_record" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">a72e9a82db230300ae6f55d0cf9619d7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 18:32:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 18:32:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f2e9a82db230300ae6f55d0cf9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_86550_wm_weight_fasting_record" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">a72e9a82db230300ae6f55d0cf9619d7</sys_ui_form>
+            <sys_ui_section caption="Meals" display_value="Meals" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">6b2e9a82db230300ae6f55d0cf9619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 18:32:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 18:32:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>772eda82db230300ae6f55d0cf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_86550_wm_weight_fasting_record" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">a72e9a82db230300ae6f55d0cf9619d7</sys_ui_form>
+            <sys_ui_section caption="Weights" display_value="Weights" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">632e9a82db230300ae6f55d0cf9619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 18:32:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_86550_wm_weight_fasting_record</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 18:32:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a72e9a82db230300ae6f55d0cf9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_86550_wm_weight_fasting_record</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a72e9a82db230300ae6f55d0cf9619d7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 18:32:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

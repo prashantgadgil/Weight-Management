@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Exercise Type" max_length="40" name="x_86550_wm_exercise_type" type="collection">
+        <element label="Client" max_length="32" name="client" reference="x_86550_wm_client" type="reference"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <index name="index">
+            <element name="client"/>
+        </index>
+    </element>
+</database>

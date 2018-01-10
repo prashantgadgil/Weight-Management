@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_86550_wm.exercise_type_user" name="x_86550_wm.exercise_type_user">d27f1e82db230300ae6f55d0cf961998</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-10 18:38:12</sys_created_on>
+        <sys_id>9e7fd6c2db230300ae6f55d0cf961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d27f1e82db230300ae6f55d0cf961998</sys_name>
+        <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9e7fd6c2db230300ae6f55d0cf961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-10 18:38:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
