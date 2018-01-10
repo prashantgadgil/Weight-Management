@@ -12,7 +12,7 @@
         </element>
         <element label="Current Weight" max_length="40" name="current_weight" type="float"/>
         <element label="Height" max_length="40" name="height" type="integer"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Share My Data" max_length="40" name="share_my_data" type="boolean"/>
         <element label="Starting Weight" max_length="40" name="starting_weight" type="integer"/>
         <element label="Target Weight" max_length="40" name="target_weight" type="float"/>
