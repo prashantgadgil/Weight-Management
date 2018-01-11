@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Exercise Type" max_length="40" name="x_86550_wm_exercise_type" type="collection">
-        <element label="Client" max_length="32" name="client" reference="x_86550_wm_client" type="reference"/>
+        <element label="Afternoon Snack" max_length="32" name="afternoon_snack" reference="x_86550_wm_meal_type" type="reference"/>
+        <element label="After Dinner Snack" max_length="32" name="after_dinner_snack" reference="x_86550_wm_meal_type" type="reference"/>
+        <element label="Breakfast" max_length="32" name="breakfast" reference="x_86550_wm_meal_type" type="reference"/>
         <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Dinner" max_length="32" name="dinner" reference="x_86550_wm_meal_type" type="reference"/>
+        <element label="Lunch" max_length="32" name="lunch" reference="x_86550_wm_meal_type" type="reference"/>
+        <element label="Morning Snack" max_length="32" name="morning_snack" reference="x_86550_wm_meal_type" type="reference"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <index name="index">
-            <element name="client"/>
+            <element name="lunch"/>
+        </index>
+        <index name="index2">
+            <element name="afternoon_snack"/>
+        </index>
+        <index name="index3">
+            <element name="breakfast"/>
+        </index>
+        <index name="index4">
+            <element name="morning_snack"/>
+        </index>
+        <index name="index5">
+            <element name="dinner"/>
+        </index>
+        <index name="index6">
+            <element name="after_dinner_snack"/>
         </index>
     </element>
 </database>

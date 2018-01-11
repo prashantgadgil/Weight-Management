@@ -4,25 +4,25 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:44:31</sys_created_on>
-            <sys_id>646cbe06db630300ae6f55d0cf96191f</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>14f7cc66dbe30300ae6f55d0cf9619dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:44:31</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <text>Enter your weight in lbs. e.g. 167.8</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>646cbe06db630300ae6f55d0cf96191f</element>
+            <element>14f7cc66dbe30300ae6f55d0cf9619dd</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:44:31</sys_created_on>
-            <sys_id>286cbe06db630300ae6f55d0cf96191f</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>d4f7cc66dbe30300ae6f55d0cf9619dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Weights" display_value="Weights" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">632e9a82db230300ae6f55d0cf9619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:44:31</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -30,13 +30,13 @@
             <element>morning_weight</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:44:31</sys_created_on>
-            <sys_id>a86cbe06db630300ae6f55d0cf96191f</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>58f7cc66dbe30300ae6f55d0cf9619dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Weights" display_value="Weights" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">632e9a82db230300ae6f55d0cf9619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:44:31</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -44,13 +44,13 @@
             <element>noon_weight</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:44:31</sys_created_on>
-            <sys_id>2c6cbe06db630300ae6f55d0cf96191f</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>d8f7cc66dbe30300ae6f55d0cf9619dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Weights" display_value="Weights" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">632e9a82db230300ae6f55d0cf9619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:44:31</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>evening_weight</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:44:31</sys_created_on>
-            <sys_id>ac6cbe06db630300ae6f55d0cf96191f</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>5cf7cc66dbe30300ae6f55d0cf9619dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Weights" display_value="Weights" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">632e9a82db230300ae6f55d0cf9619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:44:31</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:44:31</sys_created_on>
-            <sys_id>206cbe06db630300ae6f55d0cf961920</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>dcf7cc66dbe30300ae6f55d0cf9619dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Weights" display_value="Weights" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">632e9a82db230300ae6f55d0cf9619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:44:31</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>

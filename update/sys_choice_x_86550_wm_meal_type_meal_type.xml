@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="meal_type" table="x_86550_wm_meal_type" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Heavy Snack</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aba7ead2db230300ae6f55d0cf96198a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:24:15</sys_updated_on>
+            <value>heavy snack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tea-Coffee</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fa7ead2db230300ae6f55d0cf961987</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:24:15</sys_updated_on>
+            <value>tea-coffee-only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Heavy Meal</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27a7ead2db230300ae6f55d0cf96198d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:24:15</sys_updated_on>
+            <value>heavy meal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Light Snack</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afa7ead2db230300ae6f55d0cf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <value>light snack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Normal Snack</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fa7ead2db230300ae6f55d0cf961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <value>normal snack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rich Snack</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 20:24:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65518822dbe30300ae6f55d0cf96195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:24:15</sys_updated_on>
+            <value>rich snack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Light Meal</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ba7ead2db230300ae6f55d0cf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <value>light meal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Normal Meal</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7a7ead2db230300ae6f55d0cf96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <value>normal meal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rich Meal</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 20:24:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65518822dbe30300ae6f55d0cf96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:24:15</sys_updated_on>
+            <value>rich meal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dessert</label>
+            <language>en</language>
+            <name>x_86550_wm_meal_type</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3a7ead2db230300ae6f55d0cf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <value>dessert</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>meal_type</element>
+            <name>x_86550_wm_meal_type</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_id>6ba7ead2db230300ae6f55d0cf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meal_type</sys_name>
+            <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
+            <sys_update_name>sys_choice_x_86550_wm_meal_type_meal_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

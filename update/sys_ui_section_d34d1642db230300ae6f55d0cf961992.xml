@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>092cfa06db630300ae6f55d0cf9619da</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>14f7cc66dbe30300ae6f55d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>client</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>892cfa06db630300ae6f55d0cf9619da</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>94f7cc66dbe30300ae6f55d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>day</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>0d2cfa06db630300ae6f55d0cf9619da</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>18f7cc66dbe30300ae6f55d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>day_type</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>8d2cfa06db630300ae6f55d0cf9619da</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>98f7cc66dbe30300ae6f55d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,55 +61,55 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>012cfa06db630300ae6f55d0cf9619db</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>1cf7cc66dbe30300ae6f55d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>exercise_type</element>
+            <element>exercise_1</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>812cfa06db630300ae6f55d0cf9619db</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>9cf7cc66dbe30300ae6f55d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>exercise_duration</element>
+            <element>exercise_1_duration</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>052cfa06db630300ae6f55d0cf9619db</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>10f7cc66dbe30300ae6f55d0cf9619cf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>exercise_2_type</element>
+            <element>exercise_2</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>852cfa06db630300ae6f55d0cf9619db</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>90f7cc66dbe30300ae6f55d0cf9619cf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>exercise_2_duration</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 20:43:27</sys_created_on>
-            <sys_id>092cfa06db630300ae6f55d0cf9619db</sys_id>
+            <sys_created_on>2018-01-11 20:53:07</sys_created_on>
+            <sys_id>14f7cc66dbe30300ae6f55d0cf9619cf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_weight_fasting_record" sys_domain="global" view="Default view">d34d1642db230300ae6f55d0cf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 20:43:27</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:53:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

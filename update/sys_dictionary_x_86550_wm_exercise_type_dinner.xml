@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="exercise_type" table="x_86550_wm_weight_fasting_record">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="dinner" table="x_86550_wm_exercise_type">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -12,10 +12,10 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Exercise Type</column_label>
+        <column_label>Dinner</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,20 +28,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>exercise_type</element>
+        <element>dinner</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_86550_wm_weight_fasting_record</name>
+        <max_length>32</max_length>
+        <name>x_86550_wm_exercise_type</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_86550_wm_exercise_type">x_86550_wm_exercise_type</reference>
+        <reference display_value="" name="x_86550_wm_meal_type">x_86550_wm_meal_type</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-09 15:47:14</sys_created_on>
-        <sys_id>e196aa52db230300ae6f55d0cf96199c</sys_id>
+        <sys_created_on>2018-01-11 20:40:19</sys_created_on>
+        <sys_id>8ad444e2dbe30300ae6f55d0cf96194d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Exercise Type</sys_name>
+        <sys_name>Dinner</sys_name>
         <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
-        <sys_update_name>sys_dictionary_x_86550_wm_weight_fasting_record_exercise_type</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-01-11 13:47:53</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_86550_wm_exercise_type_dinner</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 20:40:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

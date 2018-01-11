@@ -4,17 +4,32 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_86550_wm_meal_type" element="NULL" name="x_86550_wm_meal_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b849034edb630300ae6f55d0cf9619d6</list_id>
+            <list_id display_value="x_86550_wm_meal_type" element="NULL" name="x_86550_wm_meal_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b8334c62dbe30300ae6f55d0cf96197e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 21:40:47</sys_created_on>
-            <sys_id>3049034edb630300ae6f55d0cf9619d7</sys_id>
+            <sys_created_on>2018-01-11 20:32:24</sys_created_on>
+            <sys_id>30334c62dbe30300ae6f55d0cf96197f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 21:40:47</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:32:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>meal_type</element>
+            <list_id display_value="x_86550_wm_meal_type" element="NULL" name="x_86550_wm_meal_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b8334c62dbe30300ae6f55d0cf96197e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 20:32:24</sys_created_on>
+            <sys_id>b0334c62dbe30300ae6f55d0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:32:24</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -28,10 +43,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 21:40:47</sys_created_on>
+            <sys_created_on>2018-01-11 20:32:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b849034edb630300ae6f55d0cf9619d6</sys_id>
+            <sys_id>b8334c62dbe30300ae6f55d0cf96197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_86550_wm_meal_type</sys_name>
             <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
@@ -39,7 +54,7 @@
             <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
             <sys_update_name>sys_ui_list_x_86550_wm_meal_type_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 21:40:47</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:32:24</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

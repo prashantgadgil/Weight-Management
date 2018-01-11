@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Weight Fasting Record" max_length="40" name="x_86550_wm_weight_fasting_record" type="collection">
-        <element choice="3" default="none" label="Afternoon Snack" max_length="40" name="afternoon_snack" type="choice">
-            <choice>
-                <element label="None" sequence="0" value="none"/>
-                <element label="Light" sequence="1" value="light"/>
-                <element label="Normal" sequence="2" value="normal"/>
-                <element label="Heavy" sequence="3" value="heavy"/>
-            </choice>
-        </element>
+        <element label="Afternoon Snack" max_length="32" name="afternoon_snack" reference="x_86550_wm_meal_type" type="reference"/>
         <element label="Afternoon Snack Time" max_length="40" name="afternoon_snack_time" type="glide_time"/>
-        <element choice="3" default="none" label="After Dinner Snack" max_length="40" name="after_dinner_snack" type="choice">
-            <choice>
-                <element label="None" sequence="0" value="none"/>
-                <element label="Light" sequence="1" value="light"/>
-                <element label="Normal" sequence="2" value="normal"/>
-                <element label="Heavy" sequence="3" value="heavy"/>
-            </choice>
-        </element>
+        <element label="After Dinner Snack" max_length="32" name="after_dinner_snack" reference="x_86550_wm_meal_type" type="reference"/>
         <element label="After Dinner Snack Time" max_length="40" name="after_dinner_snack_time" type="glide_time"/>
-        <element choice="3" default="none" label="Breakfast" max_length="40" name="breakfast" type="choice">
-            <choice>
-                <element label="None" sequence="0" value="none"/>
-                <element label="Light" sequence="1" value="light"/>
-                <element label="Normal" sequence="2" value="normal"/>
-                <element label="Heavy" sequence="3" value="heavy"/>
-            </choice>
-        </element>
+        <element label="Breakfast" max_length="32" name="breakfast" reference="x_86550_wm_meal_type" type="reference"/>
         <element default="07:00:00" label="Breakfast Time" max_length="40" name="breakfast_time" type="glide_time"/>
         <element label="Client" max_length="32" name="client" reference="x_86550_wm_client" type="reference"/>
         <element label="Day" mandatory="true" max_length="40" name="day" type="glide_date"/>
@@ -37,51 +16,46 @@
                 <element label="Vacation" sequence="2" value="vacation"/>
             </choice>
         </element>
-        <element choice="3" default="none" label="Dinner" max_length="40" name="dinner" type="choice">
-            <choice>
-                <element label="None" sequence="0" value="none"/>
-                <element label="Light" sequence="1" value="light"/>
-                <element label="Normal" sequence="2" value="normal"/>
-                <element label="Heavy" sequence="3" value="heavy"/>
-            </choice>
-        </element>
+        <element label="Dinner" max_length="32" name="dinner" reference="x_86550_wm_meal_type" type="reference"/>
         <element default="19:00:00" label="Dinner Time" max_length="40" name="dinner_time" type="glide_time"/>
         <element label="Evening Weight" max_length="40" name="evening_weight" type="float"/>
+        <element label="Exercise 1" max_length="32" name="exercise_1" reference="x_86550_wm_exercise_type" type="reference"/>
+        <element label="Exercise 1 Duration" max_length="40" name="exercise_1_duration" type="integer"/>
+        <element label="Exercise 2" max_length="32" name="exercise_2" reference="x_86550_wm_exercise_type" type="reference"/>
         <element label="Exercise 2 Duration" max_length="40" name="exercise_2_duration" type="integer"/>
-        <element label="Exercise 2 Type" max_length="32" name="exercise_2_type" reference="x_86550_wm_exercise_type" type="reference"/>
-        <element label="Exercise Duration" max_length="40" name="exercise_duration" type="integer"/>
-        <element choice="1" label="Exercise Type" max_length="40" name="exercise_type" reference="x_86550_wm_exercise_type" type="reference">
-            <choice/>
-        </element>
-        <element choice="3" default="none" label="Lunch" max_length="40" name="lunch" type="choice">
-            <choice>
-                <element label="None" sequence="0" value="none"/>
-                <element label="Light" sequence="1" value="light"/>
-                <element label="Normal" sequence="2" value="normal"/>
-                <element label="Heavy" sequence="3" value="heavy"/>
-            </choice>
-        </element>
+        <element label="Lunch" max_length="32" name="lunch" reference="x_86550_wm_meal_type" type="reference"/>
         <element default="12:00:00" label="Lunch Time" max_length="40" name="lunch_time" type="glide_time"/>
-        <element choice="3" default="none" label="Morning Snack" max_length="40" name="morning_snack" type="choice">
-            <choice>
-                <element label="None" sequence="0" value="none"/>
-                <element label="Light" sequence="1" value="light"/>
-                <element label="Normal" sequence="2" value="normal"/>
-                <element label="Heavy" sequence="3" value="heavy"/>
-            </choice>
-        </element>
+        <element label="Morning Snack" max_length="32" name="morning_snack" reference="x_86550_wm_meal_type" type="reference"/>
         <element label="Morning Snack Time" max_length="40" name="morning_snack_time" type="glide_time"/>
         <element label="Morning Weight" max_length="40" name="morning_weight" type="float"/>
         <element label="Noon Weight" max_length="40" name="noon_weight" type="float"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <index name="index">
-            <element name="exercise_2_type"/>
+            <element name="lunch"/>
         </index>
         <index name="index2">
-            <element name="client"/>
+            <element name="afternoon_snack"/>
         </index>
         <index name="index3">
-            <element name="exercise_type"/>
+            <element name="client"/>
+        </index>
+        <index name="index4">
+            <element name="breakfast"/>
+        </index>
+        <index name="index5">
+            <element name="exercise_2"/>
+        </index>
+        <index name="index6">
+            <element name="morning_snack"/>
+        </index>
+        <index name="index7">
+            <element name="dinner"/>
+        </index>
+        <index name="index8">
+            <element name="exercise_1"/>
+        </index>
+        <index name="index9">
+            <element name="after_dinner_snack"/>
         </index>
     </element>
 </database>

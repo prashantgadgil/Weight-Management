@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="client" label="Client" language="en" table="x_86550_wm_exercise_type">
+    <sys_documentation element="meal" label="Meal" language="en" table="x_86550_wm_meal_type">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>client</element>
+            <element>meal</element>
             <help/>
             <hint/>
-            <label>Client</label>
+            <label>Meal</label>
             <language>en</language>
-            <name>x_86550_wm_exercise_type</name>
-            <plural>Clients</plural>
+            <name>x_86550_wm_meal_type</name>
+            <plural>Meals</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 18:51:32</sys_created_on>
-            <sys_id>61822a46db230300ae6f55d0cf9619f0</sys_id>
+            <sys_created_on>2018-01-11 20:50:57</sys_created_on>
+            <sys_id>e8770466dbe30300ae6f55d0cf9619d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Client</sys_name>
+            <sys_name>Meal</sys_name>
             <sys_package display_value="Weight Management" source="x_86550_wm">037ae071db230300ae6f55d0cf9619c0</sys_package>
             <sys_policy/>
             <sys_scope display_value="Weight Management">037ae071db230300ae6f55d0cf9619c0</sys_scope>
-            <sys_update_name>sys_documentation_x_86550_wm_exercise_type_client_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_86550_wm_meal_type_meal_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 18:51:32</sys_updated_on>
+            <sys_updated_on>2018-01-11 20:50:57</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

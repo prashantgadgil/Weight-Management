@@ -5,27 +5,55 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-11 13:49:00</sys_created_on>
-            <sys_id>afd66e92db230300ae6f55d0cf96195a</sys_id>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_id>bfa7ead2db230300ae6f55d0cf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_meal_type" sys_domain="global" view="Default view">2bd66e92db230300ae6f55d0cf961957</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-11 13:49:00</sys_updated_on>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>meal_type</element>
+            <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-11 13:49:32</sys_created_on>
-            <sys_id>eff626d2db230300ae6f55d0cf961924</sys_id>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_id>33a7ead2db230300ae6f55d0cf961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_meal_type" sys_domain="global" view="Default view">2bd66e92db230300ae6f55d0cf961957</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-11 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meal_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 13:52:33</sys_created_on>
+            <sys_id>b3a7ead2db230300ae6f55d0cf961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_meal_type" sys_domain="global" view="Default view">2bd66e92db230300ae6f55d0cf961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:52:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meal</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 20:50:57</sys_created_on>
+            <sys_id>e0770466dbe30300ae6f55d0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86550_wm_meal_type" sys_domain="global" view="Default view">2bd66e92db230300ae6f55d0cf961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 20:50:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
