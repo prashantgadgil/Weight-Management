@@ -80,5 +80,8 @@
         <index name="index2">
             <element name="client"/>
         </index>
+        <index name="index3">
+            <element name="exercise_type"/>
+        </index>
     </element>
 </database>
