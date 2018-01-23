@@ -16,7 +16,6 @@
         <element label="Share My Data" max_length="40" name="share_my_data" type="boolean"/>
         <element label="Starting Weight" max_length="40" name="starting_weight" type="integer"/>
         <element label="Target Weight" max_length="40" name="target_weight" type="float"/>
-        <element label="Target Weight Loss" max_length="8000" name="target_weight_loss" type="integer"/>
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="user"/>

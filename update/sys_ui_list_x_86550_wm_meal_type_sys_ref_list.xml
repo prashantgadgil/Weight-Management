@@ -3,18 +3,33 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_86550_wm_meal_type" version="2" view="sys_ref_list">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>meal_type</element>
-            <list_id display_value="x_86550_wm_meal_type" element="NULL" name="x_86550_wm_meal_type" parent="NULL" relationship="NULL" sys_domain="global" view="4d713272791203006517636e4f534989">17b6c826dbe30300ae6f55d0cf9619c9</list_id>
+            <element>number</element>
+            <list_id display_value="x_86550_wm_meal_type" element="NULL" name="x_86550_wm_meal_type" parent="NULL" relationship="NULL" sys_domain="global" view="4d713272791203006517636e4f534989">1662ed96db330300ae6f55d0cf96192b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-11 20:47:51</sys_created_on>
-            <sys_id>9bb6c826dbe30300ae6f55d0cf9619c9</sys_id>
+            <sys_created_on>2018-01-23 19:05:35</sys_created_on>
+            <sys_id>5262ed96db330300ae6f55d0cf96192c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-11 20:47:51</sys_updated_on>
+            <sys_updated_on>2018-01-23 19:05:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>meal</element>
+            <list_id display_value="x_86550_wm_meal_type" element="NULL" name="x_86550_wm_meal_type" parent="NULL" relationship="NULL" sys_domain="global" view="4d713272791203006517636e4f534989">1662ed96db330300ae6f55d0cf96192b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 19:05:35</sys_created_on>
+            <sys_id>5a62ed96db330300ae6f55d0cf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 19:05:35</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
